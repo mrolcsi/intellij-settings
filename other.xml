@@ -77,9 +77,6 @@
     <option name="UI_SHOW_MODULES" value="false" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
-  <component name="ImportFilteringUsageViewSetting">
-    <option name="SHOW_IMPORTS" value="false" />
-  </component>
   <component name="PropertiesSeparatorManager">
     <file url="file://$USER_HOME$/Android/Projects/SurveyApp-trunk/LIB_BackEnd/ant.properties" separator="\u002e" />
     <file url="file://$USER_HOME$/Android/Projects/SurveyApp-trunk/LIB_BackEnd/project.properties" separator="\u002e" />
