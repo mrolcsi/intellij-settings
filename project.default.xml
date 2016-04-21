@@ -27,8 +27,6 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/Android Projects/drive-mount" value="8762748167931" />
-            <entry key="$USER_HOME$/Android Projects/fat32lib" value="1460529753951" />
             <entry key="$USER_HOME$/Documents/Android Projects/CustomChoiceList" value="4308560544000" />
             <entry key="$USER_HOME$/Documents/Android Projects/HorizontalPicker" value="7126503048839" />
             <entry key="$USER_HOME$/Documents/Android Projects/HorizontalVariableListView" value="5701173004089" />
@@ -74,14 +72,20 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-        <property name="last_opened_file_path" value="$USER_HOME$/Android Projects" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/szakdoga/!src" />
         <property name="project.structure.last.edited" value="Problems" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <option name="MAIN_CLASS_NAME" />

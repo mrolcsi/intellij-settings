@@ -22,7 +22,8 @@
     <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="CD" value="&lt;![CDATA[$SELECTION$]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
+  <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="XSL_TEXT" value="true" />
     </context>

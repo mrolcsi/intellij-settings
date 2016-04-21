@@ -72,61 +72,6 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DebuggerSettings">
-    <option name="TRACING_FILTERS_ENABLED" value="true" />
-    <option name="FORCE_CLASSIC_VM" value="true" />
-    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
-    <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="EVALUATION_DIALOG_TYPE" value="EvaluateExpression" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
-    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
-    <option name="AUTO_VARIABLES_MODE" value="true" />
-    <option name="SHOW_LIBRARY_STACKFRAMES" value="false" />
-    <filter>
-      <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.omg.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="junit.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.intellij.rt.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.yourkit.runtime.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-  </component>
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
@@ -143,7 +88,7 @@
     <Gitlab shared="false" url="http://192.168.15.188">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <option name="currentProject">
-        <GitlabProject id="-1" />
+        <GitlabProject id="2" />
       </option>
       <password>df98df9edfdedfdadf9fdfc4dfdfdffedfc4dfe1df93dff5dfe4dffadfc4dfc9dff5dfd3df9fdf99</password>
       <option name="loginAnonymously" value="false" />
@@ -154,6 +99,20 @@
       <option name="useProxy" value="false" />
       <username />
     </Gitlab>
+    <Redmine shared="false" url="https://svn.biotech.nik.uni-obuda.hu">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfc1dfdfdfc1dfcbdfc4dfc3dfc1dfcfdf9b</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>matusinka.roland</username>
+    </Redmine>
     <GitHub shared="false" url="https://github.com">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password />
@@ -169,20 +128,6 @@
       <option name="user" value="" />
       <username />
     </GitHub>
-    <Redmine shared="false" url="https://svn.biotech.nik.uni-obuda.hu">
-      <option name="APIKey" value="" />
-      <option name="assignedToMe" value="true" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="currentProject" />
-      <password>dfc1dfdfdfc1dfcbdfc4dfc3dfc1dfcfdf9b</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username>matusinka.roland</username>
-    </Redmine>
     <GitHub shared="false" url="http://github.com">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password />
@@ -255,14 +200,6 @@
   </component>
   <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="C:\Users\felhasznalo2\Documents\Diagon\SmartHaem\patches">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\felhasznalo2\Documents\Diagon\SmartHaem\patches" />
-  </component>
-  <component name="XPathView.XPathViewPlugin">
-    <option name="attributes">
-      <TextAttributes />
-    </option>
-    <option name="contextAttributes">
-      <TextAttributes />
-    </option>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
