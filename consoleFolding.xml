@@ -1,0 +1,13 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="GC_FOR_ALLOC freed" />
+        <option value="D/QC-time-services" />
+        <option value="D/OpenGLRenderer" />
+        <option value="UsbRequest" />
+        <option value="dalvikvm-heap﹕ Grow heap (frag case)" />
+      </list>
+    </option>
+  </component>
+</application>

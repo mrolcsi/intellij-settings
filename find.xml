@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File 'C:\Users\felhasznalo2\Documents\Diagon\SmartHaem\SmartHaem-repo\SmartHaemGUI\src\main\res\values\strings.xml'" />
+    <option name="defaultScopeName" value="File 'C:\Users\felhasznalo2\Documents\Diagon\SmartHaem\SmartHaem-repo\SmartHaemGUI\src\main\res\values\strings.xml'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\felhasznalo2\Documents\Diagon\SmartHaem\SmartHaem-repo\SmartHaemGUI\src\main\res\values\strings.xml'" />
+    <option name="FILE_MASK" value="*.java" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>browser_*</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
