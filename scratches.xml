@@ -1,8 +1,13 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="Git" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="JAVA" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="CommandLine" />
   </component>
 </application>
