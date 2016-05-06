@@ -27,15 +27,23 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
+            <entry key="$USER_HOME$/Documents/Android Projects/CustomChoiceList" value="4308560544000" />
             <entry key="$USER_HOME$/Documents/Android Projects/HorizontalPicker" value="7126503048839" />
             <entry key="$USER_HOME$/Documents/Android Projects/HorizontalVariableListView" value="5701173004089" />
+            <entry key="$USER_HOME$/Documents/Android Projects/ImmersiveMode" value="4308560856000" />
+            <entry key="$USER_HOME$/Documents/Android Projects/PhotoView" value="7184285926549" />
+            <entry key="$USER_HOME$/Documents/Android Projects/SPOC" value="10058038855910" />
+            <entry key="$USER_HOME$/Documents/Android Projects/SPOC/Libraries/twoway-view" value="7184417272863" />
+            <entry key="$USER_HOME$/Documents/Android Projects/SuperSLiM" value="5770259001909" />
+            <entry key="$USER_HOME$/Documents/Android Projects/filebrowser.android" value="5755410231569" />
+            <entry key="$USER_HOME$/Documents/Android Projects/glide" value="21579116282625" />
+            <entry key="$USER_HOME$/Documents/Android Projects/smoothie" value="7189940818489" />
+            <entry key="$USER_HOME$/Documents/Diagon/SmartHaem/SmartHaem-DEV" value="14443999274133" />
             <entry key="$USER_HOME$/Documents/Diagon/SmartHaem/SmartHaem-repo" value="11461807158669" />
+            <entry key="$USER_HOME$/Documents/Diagon/SmartHaem/smarthaem" value="11503981760198" />
             <entry key="$USER_HOME$/Documents/Diagon/SmartHaem/smarthaem.gradle" value="12893791039897" />
-            <entry key="D:/Dokumentumok/Android/Projects/android_packages_themes_Template" value="4322549059242" />
-            <entry key="D:/Dokumentumok/Idea Projects/Android-Universal-Image-Loader/sample" value="5746512173221" />
-            <entry key="D:/Dokumentumok/Idea Projects/DisplayingBitmaps" value="4308560496000" />
-            <entry key="D:/Dokumentumok/Idea Projects/SPOC" value="10066813975741" />
-            <entry key="D:/Dokumentumok/Iskolai Cuccok/szakdoga/CD-re/forrasallomany/SPOC" value="11609038281497" />
+            <entry key="$USER_HOME$/Documents/SPOC-dev" value="10058175859445" />
+            <entry key="$USER_HOME$/OneDrive/szakdoga/!src/SPOC" value="11576527844574" />
           </map>
         </option>
       </component>
@@ -56,7 +64,7 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="Android API 23 Platform" project-jdk-type="Android SDK" />
       <component name="PropertiesComponent">
         <property name="GoToClass.includeLibraries" value="false" />
         <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -65,20 +73,17 @@
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
         <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-        <property name="last_opened_file_path" value="$USER_HOME$/Documents/Diagon/SmartHaem" />
+        <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/szakdoga/!src" />
+        <property name="project.structure.last.edited" value="Problems" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
       </component>
       <component name="RunManager">
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-          <module name="" />
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-          <option name="PROGRAM_PARAMETERS" />
-          <method />
-        </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
@@ -153,12 +158,49 @@
           <listeners />
           <method />
         </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
       </component>
       <component name="masterDetails">
         <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>Android API 19 Platform</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>Android API 22 Platform</last-edited>
+              <last-edited>Android API 23 Platform</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

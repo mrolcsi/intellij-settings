@@ -86,8 +86,15 @@
           <option name="url" value="https://github.com/mrolcsi/lyricsplayer.android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mrolcsi/SPOC.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\felhasznalo2\Documents\Diagon\SmartHaem" />
+    <option name="cloneParentDir" value="C:\Users\felhasznalo2\OneDrive\szakdoga\!src" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\felhasznalo2\Documents\Android Projects\SPOC\patches" />
   </component>
 </application>
