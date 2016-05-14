@@ -47,7 +47,9 @@
   </action>
   <action id="PreviousTab" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="StepInto">
