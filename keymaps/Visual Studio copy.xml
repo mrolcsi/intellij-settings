@@ -2,6 +2,19 @@
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="CheckinProject" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl colon" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+  </action>
   <action id="Console.Execute" />
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="tab" />
@@ -15,11 +28,6 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
     <keyboard-shortcut first-keystroke="shift delete" />
-  </action>
-  <action id="EditorEnter" />
-  <action id="EditorStartNewLine">
-    <keyboard-shortcut first-keystroke="shift enter" />
-    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="GotoNextError" />
   <action id="GuiDesigner.EditComponent" />
