@@ -2,6 +2,10 @@
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CheckinProject" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
@@ -29,13 +33,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoNextError" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="Images.Thumbnails.EnterAction" />
+  <action id="NextTab" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="PreviousTab" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
