@@ -1,5 +1,6 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
   <action id="Arrangement.Rule.Edit" />
+  <action id="CheckinProject" />
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
@@ -9,9 +10,15 @@
   <action id="GotoNextError" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl s" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
