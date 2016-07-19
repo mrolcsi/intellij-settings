@@ -17,14 +17,19 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="GotoNextError" />
+  <action id="GotoTest" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="Images.ShowThumbnails" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl s" />
