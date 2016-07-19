@@ -1,5 +1,8 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
   <action id="Arrangement.Rule.Edit" />
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="CheckinProject" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -41,6 +44,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
