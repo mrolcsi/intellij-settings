@@ -29,12 +29,8 @@
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="Images.ShowThumbnails" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
