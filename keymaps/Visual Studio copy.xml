@@ -41,6 +41,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl s" />
   </action>
@@ -60,6 +63,9 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
