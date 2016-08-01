@@ -1,4 +1,7 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
@@ -19,6 +22,10 @@
   </action>
   <action id="EditorChooseLookupItemReplace">
     <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="shift delete" />
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
