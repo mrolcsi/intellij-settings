@@ -138,6 +138,7 @@
     <jdk version="2">
       <name value="Android API 23 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_25&quot;" />
       <homePath value="C:\Users\felhasznalo2\Documents\android-sdk-windows" />
       <roots>
         <annotationsPath>
@@ -157,7 +158,9 @@
           </root>
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Documents/android-sdk-windows/sources/android-23" />
+          </root>
         </sourcePath>
       </roots>
       <additional jdk="JDK x64" sdk="android-23" />

@@ -7,6 +7,7 @@
         <option value="D/OpenGLRenderer" />
         <option value="UsbRequest" />
         <option value="dalvikvm-heap﹕ Grow heap (frag case)" />
+        <option value="D/dalvikvm: GC_CONCURRENT freed" />
       </list>
     </option>
   </component>

@@ -1,4 +1,9 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="UISettings">
     <option name="FONT_FACE" value="Tahoma" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
@@ -10,6 +15,6 @@
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
   </component>
 </application>

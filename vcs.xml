@@ -60,7 +60,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://192.168.15.188" />
-          <option name="userName" value="rmatusinka@diagon.com" />
+          <option name="userName" value="Roli" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://192.168.15.188/haematology/smarthaem.git" />
@@ -91,14 +91,18 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/GravityBox/GravityBox" />
-          <option name="userName" value="" />
+          <option name="url" value="http://192.168.1.253" />
+          <option name="userName" value="Roli" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.253/" />
+          <option name="userName" value="Roli" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Dokumentumok\Android\Projects" />
+    <option name="cloneParentDir" value="C:\Users\felhasznalo2\OneDrive\szakdoga\!src" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\felhasznalo2\Documents\Android Projects\SPOC\patches" />
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\felhasznalo2\Documents\Diagon\SmartHaem\patches" />
   </component>
 </application>
