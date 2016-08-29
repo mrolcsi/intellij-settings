@@ -3,7 +3,7 @@
     <notification groupId="Android Module Importing" />
     <notification groupId="Android Property Files Updating" />
     <notification groupId="Android Session Restarted" displayType="TOOL_WINDOW" />
-    <notification groupId="Android XML code style notification" shouldLog="false" />
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
     <notification groupId="Clean artifact" />
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
     <notification groupId="Compiler" displayType="NONE" />
