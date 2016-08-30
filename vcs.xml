@@ -98,9 +98,17 @@
           <option name="url" value="http://192.168.1.253/" />
           <option name="userName" value="Roli" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab/haematology/smarthaem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.253/haematology/smarthaem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\felhasznalo2\OneDrive\szakdoga\!src" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\felhasznalo2\Documents\Diagon\SmartHaem\patches" />
