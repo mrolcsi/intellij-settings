@@ -12,6 +12,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="db" type="Native" />
+      <mapping ext="rtttl" type="PLAIN_TEXT" />
       <mapping pattern="datalog_archive_units" type="XML" />
     </extensionMap>
   </component>
