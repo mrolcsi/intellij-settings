@@ -9,6 +9,7 @@
         <option value="dalvikvm-heap﹕ Grow heap (frag case)" />
         <option value="D/dalvikvm: GC_CONCURRENT freed" />
         <option value="WAIT_FOR_CONCURRENT_GC" />
+        <option value="dalvikvm-heap" />
       </list>
     </option>
   </component>
