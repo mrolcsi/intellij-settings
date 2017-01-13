@@ -111,6 +111,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="/media/rmatusinka/EXTFS/odroid" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Dokumentumok/Diagon/SmartHaem/patches" />
   </component>
 </application>
