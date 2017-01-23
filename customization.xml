@@ -1,8 +1,9 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Actions.Crashlytics.CrashlyticsActionGroup" is_group="true" action_type="-1" position="0">
+    <group value="ToolbarMakeGroup" is_group="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.SyncProject" is_action="true" action_type="1" position="0">
@@ -10,13 +11,6 @@
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="AndroidToolbarMakeGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Android.SyncProject" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Toolbar Make Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.SyncProject" is_action="true" action_type="1" position="0">
