@@ -59,16 +59,6 @@
         <option name="INSERT_BLANK_LINE_BEFORE_TAG" value="false" />
       </value>
     </option>
-    <option name="MANIFEST_SETTINGS">
-      <value>
-        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
-      </value>
-    </option>
-    <option name="OTHER_SETTINGS">
-      <value>
-        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
-      </value>
-    </option>
   </AndroidXmlCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
