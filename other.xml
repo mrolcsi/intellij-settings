@@ -51,6 +51,7 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="RefactoringSettings">
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
 </application>
