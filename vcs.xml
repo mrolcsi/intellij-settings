@@ -115,6 +115,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok/Android Projects" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Asztal/odroid patches/6.0.1/packages_apps_Settings" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Dokumentumok/Diagon/SmartHaem/patches" />
   </component>
 </application>
