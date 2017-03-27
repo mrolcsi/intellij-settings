@@ -88,10 +88,4 @@
       <option name="MARKDOWN" value="true" />
     </context>
   </template>
-  <template name=".collapsed" value="&#10;&amp;nbsp;&lt;details open&gt;&lt;summary&gt;$SUMMARY$&lt;/summary&gt;&#10;$END$&#10;&amp;nbsp;&lt;/details&gt;&#10;" description="Collapsed Markdown Section" toReformat="false" toShortenFQNames="true" deactivated="true">
-    <variable name="SUMMARY" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="MARKDOWN" value="true" />
-    </context>
-  </template>
 </templateSet>
