@@ -37,7 +37,16 @@
         <option name="QUALIFIED_NAME" value="byte[]" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="byte[]" />
-          <option name="LABEL_EXPRESSION" value="Arrays.toString((byte[])this)&#13;java.util.Arrays&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString((byte[])this)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="Collections" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.List" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.util.List" />
+          <option name="LABEL_EXPRESSION" value="this.toString()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
