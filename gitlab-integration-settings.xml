@@ -1,6 +1,6 @@
 <application>
   <component name="ConfigurableState">
-    <option name="host" value="192.168.1.253" />
+    <option name="host" value="http://192.168.1.253" />
     <option name="token" value="24tp5nuTnK9_NPnc_y53" />
   </component>
 </application>
