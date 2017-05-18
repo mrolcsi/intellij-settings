@@ -1,0 +1,9 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" value="ObjectiveC" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" value="JAVA" />
+  </component>
+</application>

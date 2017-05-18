@@ -11,6 +11,8 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="FIELD_NAME_PREFIX" value="m" />
+  <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
   <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
@@ -31,6 +33,7 @@
   <option name="JD_KEEP_EMPTY_PARAMETER" value="false" />
   <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
   <option name="JD_KEEP_EMPTY_RETURN" value="false" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
   <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
@@ -52,10 +55,34 @@
   <option name="DOWHILE_BRACE_FORCE" value="3" />
   <option name="WHILE_BRACE_FORCE" value="3" />
   <option name="FOR_BRACE_FORCE" value="3" />
+  <DBN-PSQL>
+    <case-options enabled="false">
+      <option name="KEYWORD_CASE" value="lower" />
+      <option name="FUNCTION_CASE" value="lower" />
+      <option name="PARAMETER_CASE" value="lower" />
+      <option name="DATATYPE_CASE" value="lower" />
+      <option name="OBJECT_CASE" value="preserve" />
+    </case-options>
+    <formatting-settings enabled="false" />
+  </DBN-PSQL>
+  <DBN-SQL>
+    <case-options enabled="false">
+      <option name="KEYWORD_CASE" value="lower" />
+      <option name="FUNCTION_CASE" value="lower" />
+      <option name="PARAMETER_CASE" value="lower" />
+      <option name="DATATYPE_CASE" value="lower" />
+      <option name="OBJECT_CASE" value="preserve" />
+    </case-options>
+    <formatting-settings enabled="false">
+      <option name="STATEMENT_SPACING" value="one_line" />
+      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+    </formatting-settings>
+  </DBN-SQL>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Objective-C-extensions>
-    <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
-    <option name="RELEASE_STYLE" value="IVAR" />
-    <option name="TYPE_QUALIFIERS_PLACEMENT" value="BEFORE" />
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
