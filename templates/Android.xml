@@ -3,6 +3,8 @@
     <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
   </template>
 </templateSet>
