@@ -134,6 +134,10 @@
           <option name="url" value="https://github.com/usb4java/usb4java-examples" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/usb4java/usb4java-javax-examples" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok/Idea Projects" />
