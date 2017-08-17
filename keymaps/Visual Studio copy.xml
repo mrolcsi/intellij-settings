@@ -2,6 +2,7 @@
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="ActivateWebToolWindow" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
@@ -11,6 +12,10 @@
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
   <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
