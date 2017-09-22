@@ -20,6 +20,13 @@
       <path value="AndroidToolbarMakeGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Git.Fetch" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -96,7 +103,13 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Compare.SameVersion" is_action="true" action_type="1" position="3">
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Compare.SameVersion" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
@@ -124,5 +137,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Android.RunDdms" />
+    <action id="Git.Fetch" icon="$USER_HOME$/Programok/idea-IC/fetch.png" />
   </component>
 </application>
