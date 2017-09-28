@@ -1,8 +1,7 @@
 <templateSet group="html/xml">
   <template name="CD" value="&lt;![CDATA[$SELECTION$]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
     <context>
-      <option name="HTML" value="true" />
-      <option name="XML_TEXT" value="true" />
+      <option name="JSP" value="true" />
     </context>
   </template>
 </templateSet>
