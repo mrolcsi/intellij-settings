@@ -159,7 +159,7 @@
     <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok/Diagon/SmartHaem/PROJECTS" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Dokumentumok/Diagon/SmartHaem/patches" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Dokumentumok/Diagon/SmartHaem/PROJECTS/patches" />
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
