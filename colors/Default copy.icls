@@ -1,12 +1,12 @@
 <scheme name="Default copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0833334" />
+  <option name="FONT_SCALE" value="1.0" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
@@ -61540,6 +61540,12 @@
       <value>
         <option name="BACKGROUND" value="ffe4ff" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="660e76" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
