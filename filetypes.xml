@@ -16,7 +16,6 @@
       <mapping pattern="btn_background" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="rtttl" type="PLAIN_TEXT" />
-      <mapping ext="vhd" type="PLAIN_TEXT" />
       <mapping pattern="datalog_archive_units" type="XML" />
       <mapping pattern=".clang-format" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
