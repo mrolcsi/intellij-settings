@@ -170,9 +170,13 @@
           <option name="url" value="git@192.168.100.34:haematology/PolicyCreator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlesamples/android-sunflower" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok/Diagon/SmartHaem/PROJECTS" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok/Android Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
