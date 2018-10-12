@@ -11,12 +11,13 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gradlew" type="Bash" />
       <mapping ext="db" type="Native" />
       <mapping pattern="tombstone_*" type="PLAIN_TEXT" />
       <mapping pattern="btn_background" type="PLAIN_TEXT" />
-      <mapping ext="ci" type="PLAIN_TEXT" />
-      <mapping ext="rtttl" type="PLAIN_TEXT" />
       <mapping ext="vhd" type="PLAIN_TEXT" />
+      <mapping ext="rtttl" type="PLAIN_TEXT" />
+      <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping pattern="datalog_archive_units" type="XML" />
       <mapping pattern=".clang-format" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
