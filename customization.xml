@@ -27,6 +27,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Android.RunDdms" />
-    <action id="Git.Fetch" icon="$APPLICATION_HOME_DIR$/fetch.png" />
+    <action id="Git.Fetch" icon="$USER_HOME$/fetch.png" />
   </component>
 </application>
