@@ -21,6 +21,16 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="GUID" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="byte[]" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="byte[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="this.ToGUIDString()&#13;&#13;Kotlin" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="hexByte" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="byte" />
