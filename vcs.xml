@@ -190,9 +190,17 @@
           <option name="url" value="https://github.com/googlesamples/android-UniversalMusicPlayer" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/google/hover" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/ijabz/jaudiotagger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok/Android Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok/Idea Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />

@@ -4,10 +4,8 @@
       <blacklist language="Java">
         <added pattern="android.content.UriMatcher.addURI(authority,path,code)" />
       </blacklist>
-      <blacklist language="Kotlin">
-        <added pattern="android.arch.persistence.room.Query(value)" />
-      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
     </blacklists>
-    <option id="SHOW_PROPERTY_HINT" value="true" />
   </component>
 </application>
