@@ -18,6 +18,7 @@
       <mapping ext="wav" type="Native" />
       <mapping ext="db" type="Native" />
       <mapping pattern="tombstone_*" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid26700" type="PLAIN_TEXT" />
       <mapping pattern="btn_background" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
