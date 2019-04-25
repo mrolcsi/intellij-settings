@@ -4,91 +4,165 @@
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="java.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="javax.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.omg.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="sun.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="jdk.internal.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="junit.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.intellij.rt.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.yourkit.runtime.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="javassist.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="org.apache.webbeans.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
     </filter>
+  </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_DECLARED_TYPE" value="true" />
+    </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="hexByte" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="byte" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="byte" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;0x%02X&quot;, this)&#13;java.lang.String&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="String" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.lang.String" />
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="double[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="double[]" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="double[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString(this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="byte[]" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="byte[]" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="byte[]" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="Arrays.toString((byte[])this)&#13;java.util.Arrays&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="Collections" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.List" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.util.List" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="this.toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
