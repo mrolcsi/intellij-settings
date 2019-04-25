@@ -15,6 +15,7 @@
       <mapping ext="ods" type="Native" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="mp3" type="Native" />
+      <mapping ext="gz" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping ext="db" type="Native" />
       <mapping pattern="tombstone_*" type="PLAIN_TEXT" />
