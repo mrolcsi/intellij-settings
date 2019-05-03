@@ -2,8 +2,13 @@
   <component name="StringManipulationState">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="13" />
+        <option name="actionsExecuted" value="15" />
       </DonationNagger>
+    </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="sortType" value="CASE_SENSITIVE_A_Z" />
+      </SortSettings>
     </option>
   </component>
 </application>
