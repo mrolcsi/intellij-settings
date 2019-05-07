@@ -11,20 +11,22 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="gradlew" type="Bash" />
+      <mapping ext="ods" type="Native" />
+      <mapping ext="mp4" type="Native" />
+      <mapping ext="mp3" type="Native" />
+      <mapping ext="gz" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping ext="db" type="Native" />
-      <mapping ext="mp3" type="Native" />
-      <mapping ext="mp4" type="Native" />
-      <mapping ext="ods" type="Native" />
       <mapping pattern="tombstone_*" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid26700" type="PLAIN_TEXT" />
       <mapping pattern="btn_background" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="ci" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="vhd" type="PLAIN_TEXT" />
       <mapping ext="toc" type="PLAIN_TEXT" />
       <mapping ext="rtttl" type="PLAIN_TEXT" />
-      <mapping ext="vhd" type="PLAIN_TEXT" />
+      <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping pattern="datalog_archive_units" type="XML" />
       <mapping pattern=".clang-format" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
