@@ -1,70 +1,21 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="ctrl x" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
-  <action id="ActivateWebToolWindow" />
-  <action id="Arrangement.Rule.Edit" />
-  <action id="Back">
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt left" />
-  </action>
-  <action id="ChangeSignature">
-    <keyboard-shortcut first-keystroke="ctrl f2" />
-  </action>
-  <action id="CheckinProject" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl alt w" />
-  </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-    <keyboard-shortcut first-keystroke="ctrl colon" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
-  </action>
-  <action id="ContextHelp" />
-  <action id="EditorChooseLookupItem">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
-  <action id="EditorChooseLookupItemReplace">
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
-    <keyboard-shortcut first-keystroke="shift delete" />
-  </action>
-  <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt right" />
-  </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="shift f2" />
-    <mouse-shortcut keystroke="control button1" />
-    <mouse-shortcut keystroke="button2" />
+  <action id="CopyElement" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt f5" />
+    <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="GotoNextError" />
-  <action id="GotoTest" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
-  <action id="Images.ShowThumbnails" />
-  <action id="NextTab" />
-  <action id="PreviousTab" />
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
-  <action id="StepInto">
-    <keyboard-shortcut first-keystroke="f8" />
-  </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl s" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -81,12 +32,4 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="ctrl b" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="f11" />
-  </action>
-  <action id="XDebugger.EditWatch" />
-  <action id="XDebugger.SetValue" />
 </keymap>
