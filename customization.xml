@@ -7,10 +7,11 @@
       <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Android.SyncProject" is_action="true" action_type="1" position="2">
+    <group value="Compare.SameVersion" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Git.Fetch" icon="$USER_HOME$/Programok/idea-IC/fetch.png" />
