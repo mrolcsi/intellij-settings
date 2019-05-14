@@ -13,5 +13,6 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="Git.Fetch" icon="$USER_HOME$/Programok/idea-IC/fetch.png" />
   </component>
 </application>
