@@ -77,8 +77,7 @@
     </formatting-settings>
   </DBN-SQL>
   <JavaCodeStyleSettings>
-    <option name="FIELD_NAME_PREFIX" value="m" />
-    <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
+    <option name="TEST_NAME_SUFFIX" value="Tests" />
     <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
