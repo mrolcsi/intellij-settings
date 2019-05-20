@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+<keymap version="1" name="Visual Studio Mod" parent="Visual Studio">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
