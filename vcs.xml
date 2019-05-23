@@ -198,9 +198,13 @@
           <option name="url" value="https://bitbucket.org/ijabz/jaudiotagger.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mrolcsi/beehub" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dokumentumok/Idea Projects" />
+    <option name="cloneParentDir" value="D:\Dokumentumok\Android\Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
