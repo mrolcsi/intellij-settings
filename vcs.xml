@@ -228,7 +228,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Android/Projects/#clones" />
+    <option name="cloneParentDir" value="$USER_HOME$/Android/Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
