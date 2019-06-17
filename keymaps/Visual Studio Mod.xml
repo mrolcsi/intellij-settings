@@ -6,6 +6,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
