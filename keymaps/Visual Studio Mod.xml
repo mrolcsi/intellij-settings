@@ -44,6 +44,7 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoNextError" />
+  <action id="GotoTest" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="NextTab" />
