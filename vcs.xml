@@ -206,9 +206,13 @@
           <option name="url" value="https://github.com/frogermcs/GithubClient" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mrolcsi/tdd-excersie-login" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Dokumentumok\Android\Projects\#cloned" />
+    <option name="cloneParentDir" value="C:\Users\Roland\Android\Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
