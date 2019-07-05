@@ -5,7 +5,9 @@
         <added pattern="android.content.UriMatcher.addURI(authority,path,code)" />
       </blacklist>
       <blacklist language="Groovy" />
-      <blacklist language="Kotlin" />
+      <blacklist language="Kotlin">
+        <added pattern="hu.etitan.instructor.drivinglessonform.DrivingLessonFormViewModelImpl.boundBoolean(id,initialValue,onNewValue)" />
+      </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
   </component>
