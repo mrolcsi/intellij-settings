@@ -7,10 +7,11 @@
         <option value="D/QC-time-services" />
         <option value="dalvikvm-heap" />
         <option value="dalvikvm-heap﹕ Grow heap (frag case)" />
+        <option value="EGL_emulation" />
         <option value="GC_FOR_ALLOC freed" />
         <option value="UsbRequest" />
         <option value="WAIT_FOR_CONCURRENT_GC" />
-        <option value="EGL_emulation" />
+        <option value="GnssLocationProvider" />
       </list>
     </option>
   </component>
