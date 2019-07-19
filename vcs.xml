@@ -258,6 +258,10 @@
           <option name="url" value="https://github.com/afollestad/date-picker" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mrolcsi/Muzik" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Android/Projects/#clones" />
