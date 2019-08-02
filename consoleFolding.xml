@@ -9,9 +9,11 @@
         <option value="dalvikvm-heap﹕ Grow heap (frag case)" />
         <option value="EGL_emulation" />
         <option value="GC_FOR_ALLOC freed" />
+        <option value="GnssLocationProvider" />
+        <option value="OpenGLRenderer" />
         <option value="UsbRequest" />
         <option value="WAIT_FOR_CONCURRENT_GC" />
-        <option value="GnssLocationProvider" />
+        <option value="Accessing hidden" />
       </list>
     </option>
   </component>
