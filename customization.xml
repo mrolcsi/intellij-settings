@@ -26,6 +26,6 @@
       <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="Git.Fetch" icon="$USER_HOME$/.AndroidStudio3.4/fetch.png" />
+    <action id="Git.Fetch" icon="$USER_HOME$/.AndroidStudio3.5/fetch.png" />
   </component>
 </application>
