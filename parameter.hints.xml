@@ -8,6 +8,7 @@
       <blacklist language="Kotlin">
         <added pattern="hu.etitan.instructor.drivinglessonform.DrivingLessonFormViewModelImpl.boundBoolean(id,initialValue,onNewValue)" />
         <added pattern="android.content.Context.getString(resId,formatArgs)" />
+        <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
       </blacklist>
     </blacklists>
   </component>
