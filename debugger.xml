@@ -79,12 +79,13 @@
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="Calendar" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.util.GregorianCalendar" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="java.util.GregorianCalendar" />
           <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="DateFormat.getDateTimeInstance().format(this.getTime())&#13;java.text.DateFormat&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG).format(this.getTime())&#13;java.text.DateFormat&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
