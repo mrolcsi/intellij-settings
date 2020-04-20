@@ -9,10 +9,4 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="1" />
   </component>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="sqlite" type="Native" />
-    </extensionMap>
-  </component>
 </application>
