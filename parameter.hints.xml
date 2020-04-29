@@ -11,6 +11,5 @@
         <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
       </blacklist>
     </blacklists>
-    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
 </application>
