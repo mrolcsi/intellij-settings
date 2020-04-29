@@ -11,5 +11,6 @@
         <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_FUNCTION_HINT" value="true" />
   </component>
 </application>
