@@ -278,6 +278,10 @@
           <option name="url" value="https://github.com/rock3r/uplift" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ZieIony/Carbon" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Roland\Android\Projects\#clones" />
