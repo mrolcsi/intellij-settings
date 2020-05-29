@@ -9,4 +9,9 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="1" />
   </component>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+    </extensionMap>
+  </component>
 </application>
