@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="9350504a-6597-4033-981f-b4349aae238c" name="mrolcsi">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="mrolcsi" />
     <option name="AUTH_TYPE" value="BASIC" />
