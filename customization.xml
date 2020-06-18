@@ -1,15 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Android.NavBarToolBar" is_group="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunAnything" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.Fetch" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -30,6 +20,6 @@
       <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="Git.Fetch" icon="$USER_HOME$/.AndroidStudio3.5/fetch.png" />
+    <action id="Git.Fetch" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/fetch.png" />
   </component>
 </application>
