@@ -2,6 +2,7 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="Accessing hidden" />
         <option value="D/dalvikvm: GC_CONCURRENT freed" />
         <option value="D/OpenGLRenderer" />
         <option value="D/QC-time-services" />
@@ -13,7 +14,7 @@
         <option value="OpenGLRenderer" />
         <option value="UsbRequest" />
         <option value="WAIT_FOR_CONCURRENT_GC" />
-        <option value="Accessing hidden" />
+        <option value="TooLargeTool" />
       </list>
     </option>
   </component>
