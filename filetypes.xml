@@ -13,6 +13,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="anr_2020-09-01-13-16-18-718" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
