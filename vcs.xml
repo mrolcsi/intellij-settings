@@ -338,4 +338,7 @@
       </list>
     </option>
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Android/Projects/#ekreta/.patches" />
+  </component>
 </application>
