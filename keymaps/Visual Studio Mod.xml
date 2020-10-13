@@ -104,6 +104,7 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ShowFilterPopup" />
+  <action id="ShowNavBar" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl s" />
