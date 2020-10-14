@@ -122,6 +122,11 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="i" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
