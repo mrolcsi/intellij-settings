@@ -9,6 +9,12 @@
   <action id="Adtui.ZoomOutAction">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
@@ -80,6 +86,9 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
@@ -91,6 +100,10 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
@@ -115,6 +128,9 @@
   </action>
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
