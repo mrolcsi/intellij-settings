@@ -3,6 +3,12 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="ActivateStructureToolWindow" />
+  <action id="Adtui.ZoomInAction">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="Adtui.ZoomOutAction">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
@@ -18,6 +24,16 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CodeCleanup" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
@@ -48,6 +64,22 @@
   </action>
   <action id="EditorToggleUseSoftWraps" />
   <action id="EditorUnSelectWord" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
@@ -70,6 +102,12 @@
   <action id="GotoTest" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
   <action id="MoveStatementDown">
