@@ -19,6 +19,8 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CIDR.Lang.IntroduceParameter" />
+  <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
@@ -69,6 +71,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
+  <action id="EditorToggleShowWhitespaces" />
   <action id="EditorToggleUseSoftWraps" />
   <action id="EditorUnSelectWord" />
   <action id="ExpandAll">
@@ -87,9 +90,10 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="ExtractFunction">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="ExtractMethod">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="m" />
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
   <action id="FileChooser.NewFolder">
@@ -111,6 +115,8 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="Git.Rename.Local.Branch" />
+  <action id="Git.Reword.Commit" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="shift f2" />
@@ -129,16 +135,16 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="Inline">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="i" />
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceField" />
+  <action id="IntroduceParameter" />
+  <action id="IntroduceProperty" />
   <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="v" />
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="Move" />
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -181,8 +187,12 @@
   <action id="Rerun" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RiderBackendAction-EncapsulateField" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="alt delete" />
   </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
