@@ -15,6 +15,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="parking_level_logos" type="PLAIN_TEXT" />
       <mapping pattern="sequential_numbers" type="PLAIN_TEXT" />
       <mapping pattern="anr_2020-09-01-13-16-18-718" type="PLAIN_TEXT" />
       <mapping pattern="gone" type="PLAIN_TEXT" />
