@@ -326,9 +326,25 @@
           <option name="url" value="https://bitbucket.org/polestarusa/android/src/master/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mrolcsi@bitbucket.org/creapp/actlico.droid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="matusinka.roland@outlook.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/creapp/actlico.droid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/creapp/actlico.droid.old.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Roland\Android\Projects\#vividmind\#etele-plaza" />
+    <option name="cloneParentDir" value="C:\Users\Roland\Android\Projects\#actlico" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
