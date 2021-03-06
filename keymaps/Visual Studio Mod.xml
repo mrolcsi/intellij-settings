@@ -126,6 +126,11 @@
   <action id="GotoFile" />
   <action id="GotoNextError" />
   <action id="GotoTest" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="Images.Editor.ZoomIn">
