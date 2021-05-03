@@ -24,6 +24,7 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.GroupBy.Module" />
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="f2" />
@@ -146,7 +147,9 @@
   <action id="InsertLiveTemplate" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
-  <action id="IntroduceProperty" />
+  <action id="IntroduceProperty">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
@@ -200,6 +203,7 @@
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -229,12 +233,14 @@
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TodoViewGroupByShowModules" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="TypeHierarchy" />
   <action id="Unscramble" />
   <action id="UpdateRunningApplication" />
+  <action id="XDebugger.AttachToProcess" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
