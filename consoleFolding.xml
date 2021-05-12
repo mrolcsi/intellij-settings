@@ -12,9 +12,10 @@
         <option value="GC_FOR_ALLOC freed" />
         <option value="GnssLocationProvider" />
         <option value="OpenGLRenderer" />
+        <option value="TooLargeTool" />
         <option value="UsbRequest" />
         <option value="WAIT_FOR_CONCURRENT_GC" />
-        <option value="TooLargeTool" />
+        <option value="D/ViewRootImpl@" />
       </list>
     </option>
   </component>
