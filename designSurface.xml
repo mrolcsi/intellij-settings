@@ -2,12 +2,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Roland/Android/Projects/#Muzik/Muzik.develop/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Roland/Android/Projects/#Muzik/Muzik.develop/app/src/main/res/layout/fragment_miniplayer.xml" value="0.1" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/address_input_activity.xml" value="0.1" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/dashboard_fragment.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/inc_simple_appbar.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/pin_settings_fragment.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/settings_fragment.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/settings_item_simple.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/settings_item_switch.xml" value="0.38697916666666665" />
       </map>
     </option>
   </component>
