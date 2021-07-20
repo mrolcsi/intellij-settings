@@ -12,14 +12,20 @@
         <entry key="..\:/Users/Roland/Android/Projects/#Muzik/Muzik.develop/app/src/main/res/layout/fragment_miniplayer.xml" value="0.1" />
         <entry key="..\:/Users/Roland/Android/Projects/#Muzik/Muzik.develop/app/src/main/res/layout/fragment_search.xml" value="0.37135416666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#Muzik/Muzik.develop/app/src/main/res/layout/fragment_songs.xml" value="0.17760416666666667" />
-        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/address_input_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/address_input_activity.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/address_input_item.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/dashboard_fragment.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/dashboard_host_activity.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/faq_fragment.xml" value="0.3871808233454924" />
+        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/faq_list_item.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/inc_simple_appbar.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/pin_settings_fragment.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/qr_code_scanner_fragment.xml" value="0.20885416666666667" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/sensitivity_calibration_activity.xml" value="0.5" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/settings_fragment.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/settings_item_simple.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/layout/settings_item_switch.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Roland/Android/Projects/#actlico/actlico.droid/app/src/main/res/menu/dashboard_navbar.xml" value="0.38697916666666665" />
       </map>
     </option>
   </component>
