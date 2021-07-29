@@ -11,8 +11,7 @@
   </component>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping ext="mp3" type="Native" />
       <mapping pattern="visibility" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
