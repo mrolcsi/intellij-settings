@@ -6,6 +6,7 @@
         <option value="D/dalvikvm: GC_CONCURRENT freed" />
         <option value="D/OpenGLRenderer" />
         <option value="D/QC-time-services" />
+        <option value="D/ViewRootImpl@" />
         <option value="dalvikvm-heap" />
         <option value="dalvikvm-heap﹕ Grow heap (frag case)" />
         <option value="EGL_emulation" />
@@ -15,7 +16,7 @@
         <option value="TooLargeTool" />
         <option value="UsbRequest" />
         <option value="WAIT_FOR_CONCURRENT_GC" />
-        <option value="D/ViewRootImpl@" />
+        <option value="Explicit concurrent copying GC freed" />
       </list>
     </option>
   </component>
