@@ -1,5 +1,5 @@
 <application>
   <component name="GradleExperimentalSettings">
-    <option name="USE_NEW_PROJECT_STRUCTURE_DIALOG" value="true" />
+    <option name="SKIP_GRADLE_TASKS_LIST" value="false" />
   </component>
 </application>
