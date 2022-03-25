@@ -4,14 +4,14 @@
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
+      <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Compare.SameVersion" is_action="true" action_type="1" position="4">
+    <group value="Compare.SameVersion" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
+      <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Git.Fetch" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/fetch.png" />
