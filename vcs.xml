@@ -379,4 +379,7 @@
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Android/Projects/#vividmind/#etele-plaza/patches" />
   </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
+  </component>
 </application>
