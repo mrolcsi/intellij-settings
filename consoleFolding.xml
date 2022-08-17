@@ -13,11 +13,12 @@
         <option value="Explicit concurrent copying GC freed" />
         <option value="GC_FOR_ALLOC freed" />
         <option value="GnssLocationProvider" />
+        <option value="LeakCanary" />
         <option value="OpenGLRenderer" />
         <option value="TooLargeTool" />
         <option value="UsbRequest" />
         <option value="WAIT_FOR_CONCURRENT_GC" />
-        <option value="LeakCanary" />
+        <option value="I/ViewRootImpl" />
       </list>
     </option>
   </component>
