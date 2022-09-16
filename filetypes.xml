@@ -11,7 +11,6 @@
   </component>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
@@ -24,10 +23,10 @@
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="anr_2020-09-01-13-16-18-718" type="PLAIN_TEXT" />
       <mapping pattern="sequential_numbers" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <mapping ext="kml" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
