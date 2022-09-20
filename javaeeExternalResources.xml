@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://topografix.com/gpx/1/1" location="$USER_HOME$/Android/Projects/#vizsgabiztos/kvar-tablet.107915-add-location-to-every-log-event" />
+    <resource url="https://topografix.com/gpx/1/1/gpx.xsd" location="$USER_HOME$/AppData/Local/Google/AndroidStudio2021.3/extResources/46f9cbba_gpx.xsd" />
+  </component>
+</application>
