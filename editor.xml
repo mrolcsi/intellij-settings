@@ -11,6 +11,11 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="kotlin.kotlin.references.types.hints" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="kotlin.references.types.hints" />
     <settingsMapElement>
       <kotlin.kotlin.references.types.hints>
