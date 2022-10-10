@@ -90,5 +90,10 @@
         </PlaceSettings>
       </entry>
     </option>
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="ENABLE_ALIGNING_CHANGES_MODE" value="true" />
+      </SharedSettings>
+    </option>
   </component>
 </application>
