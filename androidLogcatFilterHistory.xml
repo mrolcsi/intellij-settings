@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug MainParkingViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine ExternalNavigationInProgress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ExternalNavigationInProgress" />
+        <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine level:debug MainParkingViewModel" />
         <option value="package:mine level:debug " />
-        <option value="package:mine" />
         <option value="package:mine Bearer" />
         <option value="package:mine level:verbose  AuthState" />
         <option value="package:mine request" />
-        <option value="package:mine " />
         <option value="package:mine level:verbose  " />
       </list>
     </option>
