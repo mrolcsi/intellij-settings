@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ExternalNavigationInProgress" />
+    <option name="mostRecentlyUsed" value="package:mine System" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine System" />
         <option value="package:mine ExternalNavigationInProgress" />
         <option value="package:mine " />
         <option value="package:mine" />
