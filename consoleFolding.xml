@@ -11,6 +11,7 @@
         <option value="dalvikvm-heap﹕ Grow heap (frag case)" />
         <option value="EGL_emulation" />
         <option value="Explicit concurrent copying GC freed" />
+        <option value="GameLauncher" />
         <option value="GC_FOR_ALLOC freed" />
         <option value="GnssLocationProvider" />
         <option value="I/ViewRootImpl" />
@@ -19,6 +20,7 @@
         <option value="TooLargeTool" />
         <option value="UsbRequest" />
         <option value="WAIT_FOR_CONCURRENT_GC" />
+        <option value="ViewRoot" />
       </list>
     </option>
   </component>
