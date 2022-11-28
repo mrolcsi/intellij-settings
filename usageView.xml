@@ -2,6 +2,9 @@
   <component name="ShowUsagesSettings">
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.47585115" />
   </component>
+  <component name="UsageFilteringRuleState">
+    <option value="com.intellij.usages.impl.rules.UsageInGeneratedCodeFilteringRule" />
+  </component>
   <component name="UsageInGeneratedCodeFilteringSetting">
     <option name="enabled" value="false" />
   </component>
