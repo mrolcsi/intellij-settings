@@ -19,8 +19,9 @@
         <option value="OpenGLRenderer" />
         <option value="TooLargeTool" />
         <option value="UsbRequest" />
-        <option value="WAIT_FOR_CONCURRENT_GC" />
         <option value="ViewRoot" />
+        <option value="WAIT_FOR_CONCURRENT_GC" />
+        <option value="ViewPostIme pointer" />
       </list>
     </option>
   </component>
