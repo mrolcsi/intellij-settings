@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine App$" />
+    <option name="mostRecentlyUsed" value="package:mine System.out" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine System.out" />
+        <option value="package:mine" />
+        <option value="package:mine evaluationInProgressInteractor" />
+        <option value="package:mine " />
         <option value="package:mine App$" />
         <option value="package:mine onActivity" />
         <option value="package:mine checkIrr" />
         <option value="package:mine Eval" />
-        <option value="package:mine" />
         <option value="package:mine System" />
-        <option value="package:mine " />
         <option value="package:mine Error" />
-        <option value="package:mine System.out" />
         <option value="package:mine Auth" />
         <option value="package:mine  Auth" />
         <option value="package:mine ExamReport" />
