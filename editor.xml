@@ -2,6 +2,21 @@
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
@@ -17,14 +32,6 @@
         <option value="kotlin.kotlin.references.types.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="kotlin.references.types.hints" />
-    <settingsMapElement>
-      <kotlin.kotlin.references.types.hints>
-        <Settings>
-          <option name="functionReturnType" value="true" />
-          <option name="parameterType" value="true" />
-        </Settings>
-      </kotlin.kotlin.references.types.hints>
-    </settingsMapElement>
+    <option name="lastViewedProviderKeyId" value=".references" />
   </component>
 </application>
