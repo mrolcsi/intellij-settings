@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:HTTP " />
+    <option name="mostRecentlyUsed" value="package:mine System" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine System" />
         <option value="package:mine tag:HTTP " />
         <option value="package:mine" />
         <option value="package:mine FillDatabaseDelegateImpl" />
@@ -14,7 +15,6 @@
         <option value="package:mine onActivity" />
         <option value="package:mine checkIrr" />
         <option value="package:mine Eval" />
-        <option value="package:mine System" />
         <option value="package:mine Error" />
         <option value="package:mine Auth" />
         <option value="package:mine  Auth" />
