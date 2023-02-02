@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine System.out" />
+    <option name="mostRecentlyUsed" value="package:mine level:verbose tag:HTTP" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine level:verbose tag:HTTP" />
+        <option value="package:mine tag:HTTP" />
         <option value="package:mine System.out" />
         <option value="package:mine tag:HTTP " />
         <option value="package:mine System" />
@@ -10,7 +13,6 @@
         <option value="package:mine FillDatabaseDelegateImpl" />
         <option value="package:mine binding" />
         <option value="package:mine evaluationInProgressInteractor" />
-        <option value="package:mine " />
         <option value="package:mine App$" />
         <option value="package:mine onActivity" />
         <option value="package:mine checkIrr" />
@@ -21,8 +23,6 @@
         <option value="package:mine ExamReport" />
         <option value="package:mine ExternalNavigationInProgress" />
         <option value="package:mine level:debug MainParkingViewModel" />
-        <option value="package:mine level:debug " />
-        <option value="package:mine Bearer" />
       </list>
     </option>
   </component>
