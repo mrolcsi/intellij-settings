@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:verbose tag:HTTP" />
+    <option name="mostRecentlyUsed" value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary " />
+        <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary INSTR" />
+        <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary MISTAKE" />
+        <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary" />
         <option value="package:mine " />
         <option value="package:mine level:verbose tag:HTTP" />
         <option value="package:mine tag:HTTP" />
@@ -19,10 +23,6 @@
         <option value="package:mine Eval" />
         <option value="package:mine Error" />
         <option value="package:mine Auth" />
-        <option value="package:mine  Auth" />
-        <option value="package:mine ExamReport" />
-        <option value="package:mine ExternalNavigationInProgress" />
-        <option value="package:mine level:debug MainParkingViewModel" />
       </list>
     </option>
   </component>
