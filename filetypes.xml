@@ -23,6 +23,7 @@
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="anr_2020-09-01-13-16-18-718" type="PLAIN_TEXT" />
       <mapping pattern="sequential_numbers" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="kml" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />

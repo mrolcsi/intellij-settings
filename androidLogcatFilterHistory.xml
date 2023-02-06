@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="package:mine Firebase" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine Firebase" />
         <option value="package:mine tag:FA " />
-        <option value="package:mine" />
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary " />
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary INSTR" />
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary MISTAKE" />
