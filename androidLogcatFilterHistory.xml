@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:FA " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:FA " />
         <option value="package:mine" />
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary " />
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary INSTR" />
@@ -22,7 +23,6 @@
         <option value="package:mine checkIrr" />
         <option value="package:mine Eval" />
         <option value="package:mine Error" />
-        <option value="package:mine Auth" />
       </list>
     </option>
   </component>
