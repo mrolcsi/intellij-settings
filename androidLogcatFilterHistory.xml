@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Firebase" />
+    <option name="mostRecentlyUsed" value="package:mine tag:HTTP" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HTTP" />
         <option value="package:mine" />
         <option value="package:mine Firebase" />
         <option value="package:mine tag:FA " />
@@ -12,7 +13,6 @@
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary" />
         <option value="package:mine " />
         <option value="package:mine level:verbose tag:HTTP" />
-        <option value="package:mine tag:HTTP" />
         <option value="package:mine System.out" />
         <option value="package:mine tag:HTTP " />
         <option value="package:mine System" />
