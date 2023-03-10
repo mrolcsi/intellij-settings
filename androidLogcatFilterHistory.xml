@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Glide " />
+    <option name="mostRecentlyUsed" value="package:mine tag:HTTP " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HTTP " />
         <option value="package:mine tag:HTTP" />
         <option value="package:mine tag:Glide " />
-        <option value="package:mine tag:HTTP " />
         <option value="hu.vibi.tablet" />
         <option value="package:mine Glide" />
         <option value="package:mine " />
