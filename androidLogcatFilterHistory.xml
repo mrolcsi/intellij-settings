@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:HTTP" />
+    <option name="mostRecentlyUsed" value="package:mine tag:ActivityLifecycle" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ActivityLifecycle" />
         <option value="package:mine tag:HTTP" />
         <option value="package:mine Login" />
         <option value="package:mine LoginViewModel" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary " />
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary INSTR" />
         <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary MISTAKE" />
-        <option value="package:mine tag:LastUpdateDaoImpl$updateIfNecessary" />
       </list>
     </option>
   </component>
