@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ExamReport" />
+    <option name="mostRecentlyUsed" value="package:mine tag:HTTP " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HTTP " />
         <option value="package:mine ExamReport" />
         <option value="package:mine tag:HTTP" />
         <option value="package:mine Kvar" />
@@ -14,7 +15,6 @@
         <option value="package:mine LoginViewModel" />
         <option value="package:mine tag:ActivityLifecycle " />
         <option value="package:mine System.out" />
-        <option value="package:mine tag:HTTP " />
         <option value="package:mine tag:Glide " />
         <option value="hu.vibi.tablet" />
         <option value="package:mine Glide" />
