@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:HTTP " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:HTTP " />
         <option value="package:mine ExamReport" />
         <option value="package:mine tag:HTTP" />
         <option value="package:mine Kvar" />
         <option value="package:mine Evaluation" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:ActivityLifecycle" />
         <option value="package:mine Login" />
