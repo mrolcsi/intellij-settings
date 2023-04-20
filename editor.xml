@@ -13,6 +13,7 @@
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
@@ -47,6 +48,13 @@
         <option value="kotlin.kotlin.references.types.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value=".references" />
+    <option name="lastViewedProviderKeyId" value="kotlin.kotlin.ranges.hints" />
+    <settingsMapElement>
+      <kotlin.kotlin.references.types.hints>
+        <Settings>
+          <option name="parameterType" value="true" />
+        </Settings>
+      </kotlin.kotlin.references.types.hints>
+    </settingsMapElement>
   </component>
 </application>
