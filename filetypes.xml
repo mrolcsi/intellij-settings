@@ -11,11 +11,12 @@
   </component>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="bak" type="AUTO_DETECTED" />
       <mapping ext="dec" type="AUTO_DETECTED" />
+      <mapping ext="bak" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
+      <mapping pattern="sequential_numbers" type="PLAIN_TEXT" />
       <mapping pattern="visible" type="PLAIN_TEXT" />
       <mapping pattern="visibility" type="PLAIN_TEXT" />
       <mapping pattern="gone" type="PLAIN_TEXT" />
@@ -24,7 +25,6 @@
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="anr_2020-09-01-13-16-18-718" type="PLAIN_TEXT" />
-      <mapping pattern="sequential_numbers" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="kml" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
