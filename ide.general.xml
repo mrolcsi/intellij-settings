@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="showTipsOnStartup" value="false" />
     <option name="autoSaveIfInactive" value="true" />
+    <option name="confirmOpenNewProject2" value="-1" />
     <option name="processCloseConfirmation" value="DISCONNECT" />
   </component>
   <component name="Registry">
