@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RouteDao" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine RouteDao" />
         <option value="package:mine tag:HTTP" />
         <option value="package:mine System.out" />
@@ -11,7 +12,6 @@
         <option value="package:mine onFragment" />
         <option value="package:mine EvaluationActivityViewModelImpl" />
         <option value="package:mine Evaluation" />
-        <option value="package:mine" />
         <option value="package:mine 400418" />
         <option value="package:mine tag:HTTP " />
         <option value="package:mine ExamReport" />
