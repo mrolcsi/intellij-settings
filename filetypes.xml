@@ -16,6 +16,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
+      <mapping ext="ods" type="Native" />
       <mapping pattern="sequential_numbers" type="PLAIN_TEXT" />
       <mapping pattern="visible" type="PLAIN_TEXT" />
       <mapping pattern="visibility" type="PLAIN_TEXT" />
