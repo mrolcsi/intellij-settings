@@ -1,17 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  SystemLog" />
+    <option name="mostRecentlyUsed" value="package:mine SystemLog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SystemLog" />
+        <option value="package:mine System.out" />
         <option value="package:mine  SystemLog" />
         <option value="package:mine" />
-        <option value="package:mine System.out" />
         <option value="package:mine System.out Calendar" />
         <option value="package:mine " />
         <option value="package:com.vizsgakozpont_net_prod" />
         <option value="package:mine System.out a17e24c" />
         <option value="package:mine tag:HTTP" />
-        <option value="package:mine SystemLog" />
         <option value="package:mine tag:SystemLog" />
         <option value="package:mine RouteDao" />
         <option value="package:mine HTTP" />
