@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SystemLog" />
+    <option name="mostRecentlyUsed" value="package:mine WM" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WM" />
         <option value="package:mine SystemLog" />
         <option value="package:mine System.out" />
         <option value="package:mine  SystemLog" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:HTTP " />
         <option value="package:mine ExamReport" />
         <option value="package:mine Kvar" />
-        <option value="package:mine tag:ActivityLifecycle" />
       </list>
     </option>
   </component>
