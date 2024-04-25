@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:WM-WorkerWrapper UpdateStatic" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:WM-WorkerWrapper UpdateStatic" />
+        <option value="package:mine tag:HTTP " />
+        <option value="package:mine tag:WM-WorkerWrapper " />
         <option value="package:mine" />
         <option value="package:mine level:info tag:WM -message:LogBody" />
         <option value="package:mine SystemLog UpdateSingle" />
@@ -20,9 +23,6 @@
         <option value="package:mine " />
         <option value="package:com.vizsgakozpont_net_prod" />
         <option value="package:mine System.out a17e24c" />
-        <option value="package:mine tag:HTTP" />
-        <option value="package:mine tag:SystemLog" />
-        <option value="package:mine RouteDao" />
       </list>
     </option>
   </component>
