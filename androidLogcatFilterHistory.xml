@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:System.out " />
+    <option name="mostRecentlyUsed" value="package:mine tag:HTTP " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HTTP " />
         <option value="package:mine tag:System.out " />
         <option value="package:mine tag:WM-WorkerWrapper UpdateStatic" />
-        <option value="package:mine tag:HTTP " />
         <option value="package:mine tag:WM-WorkerWrapper " />
         <option value="package:mine" />
         <option value="package:mine level:info tag:WM -message:LogBody" />
