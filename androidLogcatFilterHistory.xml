@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SystemLog" />
+    <option name="mostRecentlyUsed" value="package:mine tag:HTTP " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine SystemLog" />
         <option value="package:mine tag:HTTP " />
+        <option value="package:mine tag:HTTP &lt;--" />
+        <option value="package:mine " />
+        <option value="package:mine SystemLog" />
         <option value="package:mine tag:System.out " />
         <option value="package:mine tag:WM-WorkerWrapper UpdateStatic" />
         <option value="package:mine tag:WM-WorkerWrapper " />
@@ -21,8 +23,6 @@
         <option value="package:mine System.out" />
         <option value="package:mine  SystemLog" />
         <option value="package:mine System.out Calendar" />
-        <option value="package:mine " />
-        <option value="package:com.vizsgakozpont_net_prod" />
       </list>
     </option>
   </component>
