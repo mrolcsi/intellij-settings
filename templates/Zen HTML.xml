@@ -5,6 +5,7 @@
     <context>
       <option name="JSP" value="true" />
       <option name="JSX_HTML" value="true" />
+      <option name="TSX_HTML" value="true" />
     </context>
   </template>
   <template name="doc" value="&lt;html&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;UTF-8&quot;&gt;&#10;&lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true">
@@ -12,6 +13,7 @@
     <context>
       <option name="JSP" value="true" />
       <option name="JSX_HTML" value="true" />
+      <option name="TSX_HTML" value="true" />
     </context>
   </template>
   <template name="html:5" value="&lt;!doctype html&gt;&#10;&lt;html lang=&quot;$ENV_LOCALE$&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;UTF-8&quot;&gt;&#10;&lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true">
@@ -20,6 +22,7 @@
     <context>
       <option name="JSP" value="true" />
       <option name="JSX_HTML" value="true" />
+      <option name="TSX_HTML" value="true" />
     </context>
   </template>
 </templateSet>

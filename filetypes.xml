@@ -9,7 +9,7 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="1" />
   </component>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="dec" type="AUTO_DETECTED" />
       <mapping ext="bak" type="AUTO_DETECTED" />
